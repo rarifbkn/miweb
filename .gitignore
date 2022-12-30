@@ -1,0 +1,4 @@
+#archivos que no iran en el repositorio
+
+.env
+node_modules/
